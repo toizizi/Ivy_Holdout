@@ -4,7 +4,6 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeSlug from "rehype-slug";
 import rehypeRaw from "rehype-raw";
-import remarkHeadingId from "remark-heading-id";
 
 import linuxContent from "../data/articles/Linux";
 import mysqlContent from "../data/articles/Mysql";
@@ -35,7 +34,7 @@ export default function Article() {
   return (
     <article>
       <ReactMarkdown
-        remarkPlugins={[remarkGfm, remarkHeadingId]}
+        remarkPlugins={[remarkGfm]}
         rehypePlugins={[rehypeSlug, rehypeRaw]}
       >
         {content}

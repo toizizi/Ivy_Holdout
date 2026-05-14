@@ -1,4 +1,4 @@
 declare module "remark-heading-id" {
-  const remarkHeadingId: unknown;
+  const remarkHeadingId: () => void;
   export default remarkHeadingId;
 }
