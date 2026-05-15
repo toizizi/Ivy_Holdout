@@ -9,14 +9,14 @@ export default function About() {
           出现的原因.
         </p>
         <p>
-          在早期 Ivy have a supervisor，但是！诞生了一些 reason
-          导致了双方的模式更像是一种 friend 的状况，Ivy 便再也未学习. Thinking
-          carefully ，is lazy ? also is enjoyment
-          才是我们真正的相处模式!（更可能是 Ivy 不吃学习的压力）
+          一旦放假， Ivy
+          对自己的假期占有欲十分强，并喜欢安排一些事情将自己的时间堆满（除了学习...
+          不过后果就是常常会有额外的安排侵占我的时间，或许她应该明白，没有人比我本身的秩序更重要，除了family。
         </p>
         <p>
-          Fine! 因为 Ivy 运营了一段十分舒适的 lifestyle, 所以终于舍得抽出时间啃
-          study biscuits. （其实是发现自己的 talent 在不知不觉中消逝.....！
+          Fine! 因为开学以来 Ivy 运营了一段十分舒适的 lifestyle,
+          所以终于舍得抽出时间啃 study biscuits. （其实是发现自己的 talent
+          在不知不觉中消逝.....！
         </p>
         <p>
           为了不被曾经的自己看不起，特意 vibe coding 了一个 AREA
